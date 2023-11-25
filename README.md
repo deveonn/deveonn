@@ -3,8 +3,6 @@ deveonn/deveonn is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-# console.log("Hello World!")
-
 # 👋 Hi, I’m @deveonn
 
 - 📚 I'm a technology student currently majoring in Computer Science
