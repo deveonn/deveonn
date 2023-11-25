@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 # 👋 Hi, I’m @deveonn
 
-- 📚 I'm a technology student currently majoring in Computer Science
+- 📚 I'm a technology student currently graduating in Computer Science
 - 👀 I'm seeking opportunities to work with TypeScript+ReactJS, but I'm open to various opportunities
 - 💞️ I'm also looking for projects to collaborate on when possible
 
