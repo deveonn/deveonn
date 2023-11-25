@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
   </a>
   
   <a href ="mailto:dev.eon@outlook.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   
   <a href="https://www.linkedin.com/in/emersonvargas222/" target="_blank">
