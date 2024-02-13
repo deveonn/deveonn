@@ -15,7 +15,6 @@ You can click the Preview link to take a look at your changes.
 ### And I know a bit about:
 - Python
 - SQL / PostgreeSQL
-- Delphi
 
 <div style="display: inline_block">
   <img align="center" alt="deveonn-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
