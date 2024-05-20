@@ -15,7 +15,9 @@ You can click the Preview link to take a look at your changes.
 
  ### Other experiences
 - Purplecats Payments - Frontend Developer (ReactJS, Typescript, Vite, and SASS), March 2022 to January 2023: I have been involved in the development and maintenance of key web applications, including webpages, landing pages, browser extensions, DApps, and more.
+<br/>
 
+### My tecnologies
 <div style="display: inline_block">
   <img align="center" alt="deveonn-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="deveonn-ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -23,7 +25,9 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="deveonn-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="deveonn-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="deveonn-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="deveonn-postgreesql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="deveonn-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="deveonn-django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+ 
 </div>
 </br>
 <div>
