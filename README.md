@@ -6,12 +6,12 @@ You can click the Preview link to take a look at your changes.
 # 👋 Hi, I’m @deveonn
 
 - 📚 I'm a technology student currently graduating in Computer Science
-- 👀 I'm seeking opportunities to work with TypeScript+ReactJS, although I'm open to various opportunities
+- 👀 I'm seeking opportunities to work with ReactJS or Django, although I'm open to various opportunities
 - 💞️ I'm also looking for projects to collaborate on when possible
 
 ## Experience as a developer:
 - Purplecats Payments - Frontend Developer (ReactJS, Typescript, Vite, and SASS), March 2022 to January 2023: I have been involved in the development and maintenance of key web applications, including webpages, landing pages, browser extensions, DApps, and more.
-- Hapolo Tracking System -  Frontend Developer (ReactJS, Docker, NextJS, Django, SQL), Since March 2024: Creation, implementation and maintenance of projects made in ReactJS, NextJS, Docker anda Django and also many front-end development other technologies. 
+- Hapolo Tracking System -  Full Stack Developer (NextJS, Docker, Django, SQL), Since March 2024 -> my current position: Creation, implementation and maintenance of projects made in NextJS, Docker and Django and also many front-end development other technologies. 
 
 <div style="display: inline_block">
   <img align="center" alt="deveonn-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
