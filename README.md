@@ -2,25 +2,25 @@
 deveonn/deveonn is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
 -->
 
-# Hi there 👋 I'm Emerson Vargas
+# 👋 Hi, I'm Emerson Vargas
 
-I'm a **Full Stack Software Developer** passionate about building scalable web and mobile applications.
+**Full Stack Software Developer** focused on building scalable web and mobile applications.
 
-Currently, I work on products focused on **fleet tracking, real-time monitoring, geolocation and telematics**, developing solutions that run on **Android, iOS, Web and PWA**.
+I'm currently **open to new opportunities** where I can contribute to the development of modern products, solve challenging technical problems and continue growing as a software engineer.
 
-I enjoy solving complex problems, designing maintainable software and turning business requirements into clean, scalable solutions.
+My experience spans mobile, web and backend development, with a strong background in real-time systems, geolocation, APIs and product evolution.
 
 ---
 
-## 🚀 About me
+## 🚀 About Me
 
-- 💼 Full Stack Developer
+- 💼 Open to Full Stack, Backend and Mobile Developer opportunities
 - 📱 Mobile development with Ionic, Angular and Capacitor
 - 🌐 Web development with Angular, React and Next.js
 - 🐍 Backend development with Python and Django
 - 🗺️ Experience with Google Maps, OpenStreetMap and Leaflet
-- 🐳 Docker enthusiast
-- 💡 Interested in Software Architecture, SaaS and Product Development
+- 🐳 Docker, Linux and SQL enthusiast
+- 💡 Passionate about Software Architecture, SaaS and Product Development
 
 ---
 
@@ -28,25 +28,25 @@ I enjoy solving complex problems, designing maintainable software and turning bu
 
 ## Hapolo Tracking System
 **Full Stack Developer**  
-**March 2024 - Present**
+**March 2024 – July 2026**
 
-Working on the development and evolution of a fleet tracking platform.
+Worked on the development and evolution of a fleet tracking platform, delivering solutions for Android, iOS, PWA and Web.
 
-Main responsibilities:
+Highlights:
 
-- Mobile applications for Android, iOS and PWA
+- Mobile applications with Ionic, Angular and Capacitor
 - Backend APIs with Django
 - Angular applications
-- MySQL database development
-- Google Maps, OpenStreetMap and Leaflet integrations
+- MySQL databases
+- Docker environments
+- Google Maps, OpenStreetMap and Leaflet
 - Real-time tracking
 - Telemetry features
-- Authentication (Biometrics)
 - Push Notifications
+- Biometric Authentication
 - Digital Signature
 - Performance optimization
-- Architecture improvements
-- Docker environment
+- Software modernization and architecture improvements
 
 ---
 
@@ -54,9 +54,9 @@ Main responsibilities:
 
 **Frontend Developer**
 
-**March 2022 - January 2023**
+**March 2022 – January 2023**
 
-Started as an Apprentice and was promoted to Junior Frontend Developer after three months.
+Started as an Apprentice and was promoted to Junior Frontend Developer after three months due to consistent technical growth and performance.
 
 Worked on:
 
@@ -65,10 +65,10 @@ Worked on:
 - Backoffice systems
 - Landing Pages
 - DApps
-- SCSS
 - TypeScript
+- SCSS
 - Vite
-- Bug fixing and UI improvements
+- UI improvements and bug fixing
 
 ---
 
@@ -76,46 +76,40 @@ Worked on:
 
 ### Frontend
 
-<p>
-<img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-<img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
-<img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"/>
-<img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-<img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"/>
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg"/>
-<img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-<img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-</p>
+- Angular
+- React
+- Next.js
+- Ionic
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
+- SCSS
 
 ### Backend
 
-<p>
-<img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-</p>
+- Python
+- Django
+- MySQL
 
 ### Tools
 
-<p>
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-</p>
+- Docker
+- Git
+- Linux
 
 ---
 
-## 📫 Connect with me
+## 🌱 Currently Learning
 
-<a href="mailto:dev.eon@outlook.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+- Software Architecture
+- System Design
+- Cloud Technologies
+- Product Engineering
 
-<a href="https://www.linkedin.com/in/emersonvargas222/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+---
 
-<a href="https://www.instagram.com/dev_eonn/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+## 📫 Let's Connect
+
+- 💼 LinkedIn: https://linkedin.com/in/emersonvargas222
+- 📧 Email: dev.eon@outlook.com
