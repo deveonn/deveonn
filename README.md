@@ -19,7 +19,7 @@ My experience spans mobile, web and backend development, with a strong backgroun
 - 🌐 Web development with Angular, React and Next.js
 - 🐍 Backend development with Python and Django
 - 🗺️ Experience with Google Maps, OpenStreetMap and Leaflet
-- 🐳 Docker, Linux and SQL enthusiast
+- 🐳 Docker, Linux and SQL basic knowledge
 - 💡 Passionate about Software Architecture, SaaS and Product Development
 
 ---
