@@ -4,78 +4,79 @@ deveonn/deveonn is a ✨ special ✨ repository because its README.md appears on
 
 # 👋 Hi, I'm Emerson Vargas
 
-**Full Stack Software Developer** focused on building scalable web and mobile applications.
+**Full Stack Software Developer** — SaaS, real-time tracking & geolocation
 
-I'm currently **open to new opportunities** where I can contribute to the development of modern products, solve challenging technical problems and continue growing as a software engineer.
-
-My experience spans mobile, web and backend development, with a strong background in real-time systems, geolocation, APIs and product evolution.
+💼 **Open to new opportunities** (CLT, PJ, freelance)
+📍 São Marcos, RS, Brazil — available for remote work
 
 ---
 
 ## 🚀 About Me
 
-- 💼 Open to Full Stack, Backend and Mobile Developer opportunities
-- 📱 Mobile development with Ionic, Angular and Capacitor
-- 🌐 Web development with Angular, React and Next.js
-- 🐍 Backend development with Python and Django
-- 🗺️ Experience with Google Maps, OpenStreetMap and Leaflet
-- 🐳 Docker, Linux and SQL basic knowledge
+- 🚗 Full Stack Developer with 4+ years of experience, specialized in B2B multi-tenant SaaS platforms for vehicle tracking
+- 📈 Worked on a product that reached **200,000+ tracked vehicles** at peak
+- 🐍 Python backend, 🅰️ Angular frontend, 📱 Android/iOS apps and 🐧 Linux infrastructure
+- 🗺️ Experienced with real-time geolocation and telemetry
+- 🔁 Hands-on with tech stack migration and legacy system modernization
 - 💡 Passionate about Software Architecture, SaaS and Product Development
 
 ---
 
 # 💼 Professional Experience
 
-## Hapolo Tracking System
-**Full Stack Developer**  
+## Hapolo Sistemas
+**Full Stack Developer**
 **March 2024 – July 2026**
 
-Worked on the development and evolution of a fleet tracking platform, delivering solutions for Android, iOS, PWA and Web.
+B2B white-label SaaS platform for vehicle tracking, telemetry and billing, licensed to tracking companies. Reached 200,000+ tracked vehicles at peak.
 
 Highlights:
 
-- Mobile applications with Ionic, Angular and Capacitor
-- Backend APIs with Django
-- Angular applications
-- MySQL databases
-- Docker environments
-- Google Maps, OpenStreetMap and Leaflet
-- Real-time tracking
-- Telemetry features
-- Push Notifications
-- Biometric Authentication
-- Digital Signature
-- Performance optimization
-- Software modernization and architecture improvements
+- Built and maintained four ecosystem apps — tracking, driver, installer and quotation — with Angular, Ionic, TypeScript and Capacitor (Android, iOS, Web and PWA)
+- Worked on a multi-tenant architecture with a tenant-identification thin bridge over a single Python codebase serving all brands
+- Created BK Auth, an authentication app generating offline transaction-validation codes via algorithm, integrated with the billing system
+- Led the full migration of the quotation app: React Native → Ionic on the front end, and Node.js (Express/Knex) → Python/FastAPI on the back end, unifying the company stack
+- Implemented real-time tracking, telemetry, hour meter and fuel consumption with Google Maps, OpenStreetMap and Leaflet
+- Administered the white-label infrastructure: 38 production Nginx configs serving branded PWAs, automating migration to a shared snippet via Bash script
+- Deployed self-hosted GlitchTip for error monitoring with Nginx reverse proxy and Certbot SSL
+- Delivered push notifications, biometric authentication and digital signature on mobile
+
+---
+
+## ZTech
+**Developer**
+**May 2023 – July 2023**
+
+ERP and commercial automation software company with fiscal invoicing.
+
+- Modernized a legacy Delphi ERP, migrating the database from Paradox to PostgreSQL and making the required code adjustments
 
 ---
 
 ## PurpleCats Payments
-
-**Frontend Developer**
-
+**Junior Developer**
 **March 2022 – January 2023**
 
-Started as an Apprentice and was promoted to Junior Frontend Developer after three months due to consistent technical growth and performance.
+Joined as an Apprentice and was promoted to Junior Developer within 3 months due to consistent technical growth and performance.
 
-Worked on:
+- Built landing pages, browser extensions, backoffice systems and DApps with React, TypeScript, SCSS and Vite, in an Agile/Scrum team
 
-- React applications
-- Browser Extensions
-- Backoffice systems
-- Landing Pages
-- DApps
-- TypeScript
-- SCSS
-- Vite
-- UI improvements and bug fixing
+---
+
+# 🧩 Projects
+
+## Vetor — Fleet Management SaaS
+**2026 – present · Own contracted project**
+
+- Fleet management SaaS (web panel + mobile app) with Angular, NestJS and Ionic, integrating a tracking platform via REST API
+- Chose PostgreSQL after evaluating MySQL behavior under high data volume, prioritizing long-term scalability
+- Responsible for the full cycle: requirements, commercial proposal, architecture, visual identity and development
 
 ---
 
 # 🛠️ Tech Stack
 
 ### Frontend
-
 - Angular
 - React
 - Next.js
@@ -87,25 +88,46 @@ Worked on:
 - SCSS
 
 ### Backend
-
 - Python
 - Django
+- FastAPI
+- Node.js
+- NestJS
+- Express
+- REST APIs
+
+### Databases
 - MySQL
+- PostgreSQL
+- SQL
 
-### Tools
+### Mobile
+- Android
+- iOS
+- Capacitor
+- PWA
+- React Native
 
+### Geolocation
+- Google Maps
+- OpenStreetMap
+- Leaflet
+- Real-time tracking
+- Telemetry
+
+### Infrastructure & Tools
 - Docker
-- Git
+- Nginx
 - Linux
+- Git
+- Certbot
 
 ---
 
-## 🌱 Currently Learning
+## 🎓 Education
 
-- Software Architecture
-- System Design
-- Cloud Technologies
-- Product Engineering
+- BSc in Computer Science — 2022 to 2024 (incomplete)
+- 🗣️ Portuguese (native), English (intermediate, advanced technical reading)
 
 ---
 
@@ -113,3 +135,4 @@ Worked on:
 
 - 💼 LinkedIn: https://linkedin.com/in/emersonvargas222
 - 📧 Email: dev.eon@outlook.com
+- 🌐 Portfolio: https://deveon.com.br
